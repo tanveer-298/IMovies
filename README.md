@@ -14,8 +14,6 @@
 ## 📌 Project Links for Mentor Review & Evaluation
 
 - **GitHub Repository:** [https://github.com/tanveer-298/IMovies](https://github.com/tanveer-298/IMovies)
-- **Local Frontend Application (React 19 + Vite):** [http://localhost:5173](http://localhost:5173)
-- **Backend REST API Health Check:** [http://localhost:5000/api/health](http://localhost:5000/api/health)
 - **Pre-configured 1-Click Windows Launcher:** `start-imovies.bat` in root folder (launches both frontend and backend instantly)
 
 ---
