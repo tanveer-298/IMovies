@@ -13,7 +13,7 @@
 
 ## 📌 Project Links for Mentor Review
 
-- **GitHub Repository:** `Not published yet.`  
+- **GitHub Repository:** [https://github.com/tanveer-298/IMovies](https://github.com/tanveer-298/IMovies)  
   <!-- MENTOR_SUBMISSION_PLACEHOLDER: Replace "Not published yet." with your repository URL once authorized -->
 - **Live Production Demo:** `Not deployed yet.`  
   <!-- MENTOR_SUBMISSION_PLACEHOLDER: Replace "Not deployed yet." with your live hosting URL once deployed -->

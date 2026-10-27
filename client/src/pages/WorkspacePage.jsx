@@ -263,9 +263,9 @@ export default function WorkspacePage() {
                 <div className="mb-3 p-3 rounded bg-dark border border-secondary">
                   <div className="d-flex justify-content-between align-items-center mb-1">
                     <span className="text-muted small">GitHub Repository:</span>
-                    <span className="badge bg-secondary">Unpublished</span>
+                    <span className="badge bg-success">Verified</span>
                   </div>
-                  <div className="text-white fw-bold">Not published yet.</div>
+                  <a href="https://github.com/tanveer-298/IMovies" target="_blank" rel="noopener noreferrer" className="text-danger fw-bold text-decoration-none">github.com/tanveer-298/IMovies</a>
                   <div className="text-muted small mt-1" style={{ fontSize: '0.72rem' }}>
                     Local Git initialized cleanly at C:\Users\mansu\.antigravity-ide\IMovies
                   </div>

@@ -45,9 +45,9 @@ export default function Footer() {
               <div className="p-2 rounded bg-dark border border-secondary">
                 <div className="text-muted d-flex align-items-center justify-content-between mb-1">
                   <span>GitHub Repository:</span>
-                  <span className="badge bg-secondary">Pending URL</span>
+                  <span className="badge bg-success">Verified</span>
                 </div>
-                <div className="text-white fw-semibold">Not published yet.</div>
+                <a href="https://github.com/tanveer-298/IMovies" target="_blank" rel="noopener noreferrer" className="text-danger fw-semibold text-decoration-none">github.com/tanveer-298/IMovies</a>
               </div>
               <div className="p-2 rounded bg-dark border border-secondary">
                 <div className="text-muted d-flex align-items-center justify-content-between mb-1">
