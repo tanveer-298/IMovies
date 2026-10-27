@@ -16,7 +16,6 @@
 - **GitHub Repository:** [https://github.com/tanveer-298/IMovies](https://github.com/tanveer-298/IMovies)
 - **Local Frontend Application (React 19 + Vite):** [http://localhost:5173](http://localhost:5173)
 - **Backend REST API Health Check:** [http://localhost:5000/api/health](http://localhost:5000/api/health)
-- **Live Project Demo Video:** [https://raw.githubusercontent.com/tanveer-298/IMovies/main/docs/imovies_demo_walkthrough.webp](https://raw.githubusercontent.com/tanveer-298/IMovies/main/docs/imovies_demo_walkthrough.webp)
 - **Pre-configured 1-Click Windows Launcher:** `start-imovies.bat` in root folder (launches both frontend and backend instantly)
 
 ---
