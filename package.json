@@ -12,7 +12,8 @@
     "seed": "cd server && npm run seed",
     "test": "cd server && npm test",
     "build": "cd client && npm run build",
-    "view-users": "node scripts/inspect_db.js"
+    "view-users": "node scripts/inspect_db.js",
+    "db": "node scripts/terminal-view.js"
   },
   "keywords": [
     "mern",
