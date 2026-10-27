@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "imovies-mern",
   "version": "1.0.0",
   "description": "IMovies — Movie Ticket Booking Made Simple (Full MERN Stack)",
@@ -11,9 +11,17 @@
     "start": "cd server && npm start",
     "seed": "cd server && npm run seed",
     "test": "cd server && npm test",
-    "build": "cd client && npm run build"
+    "build": "cd client && npm run build",
+    "view-users": "node scripts/inspect_db.js"
   },
-  "keywords": ["mern", "movie-booking", "react", "node", "express", "mongodb"],
+  "keywords": [
+    "mern",
+    "movie-booking",
+    "react",
+    "node",
+    "express",
+    "mongodb"
+  ],
   "author": "IMovies Team",
   "license": "ISC"
 }
