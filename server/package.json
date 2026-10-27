@@ -1,0 +1,32 @@
+﻿{
+  "name": "imovies-server",
+  "version": "1.0.0",
+  "description": "IMovies - Movie Ticket Booking Made Simple - Backend REST API",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "seed": "node ../scripts/seedData.js",
+    "test": "node --test tests/*.test.js"
+  },
+  "keywords": [
+    "mern",
+    "express",
+    "mongodb",
+    "movie-ticket-booking"
+  ],
+  "author": "IMovies Team",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^17.3.1",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "express-validator": "^7.2.1",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^8.14.0",
+    "morgan": "^1.10.0"
+  }
+}
