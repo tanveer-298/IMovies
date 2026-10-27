@@ -52,9 +52,9 @@ export default function Footer() {
               <div className="p-2 rounded bg-dark border border-secondary">
                 <div className="text-muted d-flex align-items-center justify-content-between mb-1">
                   <span>Live Production Demo:</span>
-                  <span className="badge bg-secondary">Pending Deploy</span>
+                  <span className="badge bg-success">Localhost:5173</span>
                 </div>
-                <div className="text-white fw-semibold">Not deployed yet.</div>
+                <a href="http://localhost:5173" target="_blank" rel="noopener noreferrer" className="text-warning fw-semibold text-decoration-none">http://localhost:5173</a>
               </div>
             </div>
           </div>

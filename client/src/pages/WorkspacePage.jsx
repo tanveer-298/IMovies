@@ -273,12 +273,12 @@ export default function WorkspacePage() {
 
                 <div className="mb-4 p-3 rounded bg-dark border border-secondary">
                   <div className="d-flex justify-content-between align-items-center mb-1">
-                    <span className="text-muted small">Live Production Demo:</span>
-                    <span className="badge bg-secondary">Undeployed</span>
+                    <span className="text-muted small">Local Application Demo:</span>
+                    <span className="badge bg-success">Active</span>
                   </div>
-                  <div className="text-white fw-bold">Not deployed yet.</div>
+                  <a href="http://localhost:5173" target="_blank" rel="noopener noreferrer" className="text-warning fw-bold text-decoration-none">http://localhost:5173</a>
                   <div className="text-muted small mt-1" style={{ fontSize: '0.72rem' }}>
-                    Health check ready at /api/health
+                    Backend Health Check: <a href="http://localhost:5000/api/health" target="_blank" rel="noopener noreferrer" className="text-info text-decoration-none">http://localhost:5000/api/health</a>
                   </div>
                 </div>
 
