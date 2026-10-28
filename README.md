@@ -13,7 +13,6 @@
 
 ## 📌 Project Links for Mentor Review & Evaluation
 
-- **?? Live Demo (Frontend):** [https://i-movies-plum.vercel.app](https://i-movies-plum.vercel.app)
 - **GitHub Repository:** [https://github.com/tanveer-298/IMovies](https://github.com/tanveer-298/IMovies)
 - **Pre-configured 1-Click Windows Launcher:** `start-imovies.bat` in root folder (launches both frontend and backend instantly)
 
