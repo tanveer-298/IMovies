@@ -1,5 +1,5 @@
 # IMovies — Movie Ticket Booking Made Simple
-front end : http://localhost:5173
+
 [![MERN Stack](https://img.shields.io/badge/Stack-MERN-red.svg)](https://mongodb.com)
 [![Tests Passed](https://img.shields.io/badge/Tests-15%2F15%20Passed-brightgreen.svg)]()
 [![License](https://img.shields.io/badge/License-ISC-blue.svg)]()
@@ -12,7 +12,7 @@ front end : http://localhost:5173
 ---
 
 ## 📌 Project Links for Mentor Review & Evaluation
-
+front end : http://localhost:5173
 - **GitHub Repository:** [https://github.com/tanveer-298/IMovies](https://github.com/tanveer-298/IMovies)
 - **Pre-configured 1-Click Windows Launcher:** `start-imovies.bat` in root folder (launches both frontend and backend instantly)
 
