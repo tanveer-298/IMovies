@@ -1,5 +1,5 @@
 # IMovies — Movie Ticket Booking Made Simple
-
+front end : http://localhost:5173
 [![MERN Stack](https://img.shields.io/badge/Stack-MERN-red.svg)](https://mongodb.com)
 [![Tests Passed](https://img.shields.io/badge/Tests-15%2F15%20Passed-brightgreen.svg)]()
 [![License](https://img.shields.io/badge/License-ISC-blue.svg)]()
