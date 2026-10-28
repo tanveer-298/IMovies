@@ -12,7 +12,7 @@
 ---
 
 ## 📌 Project Links for Mentor Review & Evaluation
-front end : http://localhost:5173
+-  front end : http://localhost:5173
 - **GitHub Repository:** [https://github.com/tanveer-298/IMovies](https://github.com/tanveer-298/IMovies)
 - **Pre-configured 1-Click Windows Launcher:** `start-imovies.bat` in root folder (launches both frontend and backend instantly)
 
